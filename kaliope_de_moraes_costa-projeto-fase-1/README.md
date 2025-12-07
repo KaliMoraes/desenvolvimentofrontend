@@ -56,10 +56,16 @@ README.md
 - Optei por utilizar Vite pela sua simplicidade e velocidade no desenvolvimento local. Componentes foram implementados como funções com Hooks (useState, useEffect, useMemo) para manter código conciso e didático.
 - A aplicação é intencionalmente estática (dados em memória) conforme solicitado para a Fase 1; a Fase 2 pode introduzir consumo de API e bibliotecas de UI.
 
-## Prints (exemplos)
-- Print 1: Tela inicial (Home). *(Adicione aqui capturas suas antes de submeter.)*
-- Print 2: Formulário de cadastro. *(Adicione aqui capturas suas antes de submeter.)*
-- Print 3: Listagem com itens cadastrados. *(Adicione aqui capturas suas antes de submeter.)*
+## Capturas de Tela
+### 🏠 Tela Home
+![Tela Home](./images/_Home.png)
+
+### 🧾 Tela de Cadastro e Listagem
+![Cadastro e Listagem](./images/_CadastroListagem.png)
+
+### ℹ️ Tela Sobre
+![Tela Sobre](./images/_Sobre.png)
+
 
 ## Entrega
 Compacte a pasta do projeto (sem `node_modules`) em `kaliope_de_moraes_costa-projeto-fase-1.zip` antes de submeter na plataforma da disciplina.
